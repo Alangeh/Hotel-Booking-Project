@@ -7,7 +7,7 @@ import Navbar from './components/navbar/Navbar'
 const inter = Inter({ subsets: ['latin'] })
 const font = Nunito({ subsets: ["latin"] })
 export const metadata: Metadata = {
-  title: 'Airbnb',
+  title: 'Lions Booker',
   description: 'Airbnb Clone',
 }
 
