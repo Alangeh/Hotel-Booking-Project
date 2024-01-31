@@ -2,7 +2,9 @@
 
 const ImageUpload = () => {
     return (
-        <div></div>
+        <div >
+
+        </div>
     )
 }
 
